@@ -1,6 +1,6 @@
 <div align="left">
 
-**English** | [فارسی](README.md
+**English** | [فارسی](README.md)
 
 # One-Command Psiphon Conduit Installation
 
