@@ -1,3 +1,7 @@
+<div align="left">
+
+**English** | [فارسی](README.md
+
 # One-Command Psiphon Conduit Installation
 
 **Easy Psiphon Bridge setup with Docker and intelligent management to help Internet freedom in Iran**
