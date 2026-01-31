@@ -1,4 +1,4 @@
-<div align="right">
+<div align="left">
 
 **English** | [فارسی](README.md)
 
